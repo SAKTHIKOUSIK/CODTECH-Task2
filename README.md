@@ -41,3 +41,11 @@ Conclusion:
 
 The SVM model proved to be the most effective for the given dataset, demonstrating high accuracy and balanced performance across all evaluation metrics.
 
+Output :
+
+![Screenshot 2024-07-03 090415](https://github.com/SAKTHIKOUSIK/CODTECH-Task2/assets/132210032/b2fa25a5-e336-49a3-a13b-4e4a646d72d2)
+
+![Screenshot 2024-07-03 090531](https://github.com/SAKTHIKOUSIK/CODTECH-Task2/assets/132210032/829a2dee-9e91-4dad-bc01-82884e019027)
+
+![Screenshot 2024-07-03 090630](https://github.com/SAKTHIKOUSIK/CODTECH-Task2/assets/132210032/ad84bc16-66d3-40ad-aed7-47ed13c05bac)
+
